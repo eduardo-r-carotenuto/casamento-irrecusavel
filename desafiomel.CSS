@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    margin: 0;
+}
+.bg{
+background-image: url("fundomel.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
+.fundo{
+    width: 100%;
+    height: 185%;
+}
+.escrita{
+    padding-top: 2%;
+    background-color: #FFFFFF;
+    border: 16px solid red;
+    border-radius: 12px;
+    text-align: center;
+    
+}
